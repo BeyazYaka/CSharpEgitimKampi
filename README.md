@@ -1,0 +1,2 @@
+- 👋 Merhaba, Ben Ali Kankaya.
+- 🌱 Bu repository Murat Yücedağ C# Eğitim Kampı kapsamında derste yapılanlar ve verilecek caseler için açılmıştır.
