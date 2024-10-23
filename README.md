@@ -28,6 +28,9 @@ Yedinci ders kapsamında foreach döngüsünü kullanımı öğrendim. Daha önc
 ## 🏆 Ders 8: Metotlar
 Sekizinci ders kapsamında geriye değer döndüren, döndürmeyen, parametreli ve parametresiz metotlar nasıl oluşturulur öğrendim. Metotları kullanarak örnek sınav sonucu hesaplayıp geçme kalma durumunu ekrana yazdıran bir konsol uygulaması yapılmıştır.
 
+## 🔗 Ders 9: SQL Veri Tabanı
+Dokuzuncu ders kapsamında SQL veri tabanı kullanarak tablo oluşturma ve C# bağlantısının nasıl yapılacağını öğrendim. Örnek proje için sql tabloları oluşturduk ve SQL ile C# birbirine bağlayarak ilk sorgu işlemini yaptık.
+
 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
 
 Kaynak: https://www.youtube.com/@MurattYucedag
