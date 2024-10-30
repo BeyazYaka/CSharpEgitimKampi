@@ -31,8 +31,14 @@ Sekizinci ders kapsamında geriye değer döndüren, döndürmeyen, parametreli 
 ## 🔗 Ders 9: SQL Veri Tabanı
 Dokuzuncu ders kapsamında SQL veri tabanı kullanarak tablo oluşturma ve C# bağlantısının nasıl yapılacağını öğrendim. Örnek proje için sql tabloları oluşturduk ve SQL ile C# birbirine bağlayarak ilk sorgu işlemini yaptık.
 
-C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
+## ⛓️ Ders 10: C# ile SQL CRUD İşlemleri
+Onuncu ders kapsamında SQL veri tabanı kullanarak tabloya veri ekleme, verileri okuma, verileri silme ve verileri güncelleme işlemleri nasıl yapıldığını öğrenmiş oldum. Önceki ders oluşturduğumuz veri tabanını kullanarak CRUD işlemlerini gerçekleştirdik.
 
-Kaynak: https://www.youtube.com/@MurattYucedag
+##
+🔖 C# eğitim kampı devam etmekte olup bu repo üzerinden gelişmeleri takip edebilir ve aşağıdaki linkten eğitim videolarını izleyebilirsiniz. İyi çalışmalar 🎉
+
+📙 Kaynak: https://www.youtube.com/@MurattYucedag
+
+
 
 
